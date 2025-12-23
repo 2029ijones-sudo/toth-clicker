@@ -1,0 +1,62 @@
+# Blender 3.6.8 MTL File: 'npc_pc_mon_erica.blend'
+# www.blender.org
+
+newmtl Object_1_p_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Whyink/Desktop/GE/erica/npc_set_erica_face.bmp
+
+newmtl Object_1_p_1.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Whyink/Desktop/GE/erica/nps_set_2024summer_erica_hair2.bmp
+
+newmtl Object_1_p_2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Whyink/Desktop/GE/erica/npc_set_erica_face.bmp
+
+newmtl Object_1_p_2.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Whyink/Desktop/GE/erica/nps_set_2024summer_erica_hair2.bmp
+
+newmtl Object_2_p_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Whyink/Desktop/GE/erica/npc_set_erica_body.bmp
+
+newmtl Object_3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/Whyink/Desktop/GE/erica/tooth_02.bmp
